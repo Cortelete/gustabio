@@ -25,7 +25,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     name: 'TikTok',
     url: '#', // Placeholder link
     icon: TikTokIcon,
-    brandColor: '#833AB4'
+    brandColor: '#00F2EA'
   },
   {
     name: 'Comando Autoservices',
